@@ -16,6 +16,18 @@ Claude picks up the full context, asks you the right questions, and walks you th
 
 ---
 
+## Join the team
+
+If you've made it this far and you're enjoying building with Claude, we're always looking for people to join PRGRMMD.
+
+We're a growing AI agency installing AI operating systems into founder-led businesses. If you're comfortable with Claude Code, enjoy building automation systems, and want to apply that to real client work, we'd love to hear from you.
+
+**[Apply to work with us →](https://forms.clickup.com/90161350719/f/2kz0j21z-21756/2CDXO69PY3T19A3I85)**
+
+Or DM me directly on Instagram if you want to have a chat first.
+
+---
+
 ## What you're building
 
 A custom Obsidian plugin that gives you one screen for everything.
@@ -383,17 +395,6 @@ Confirm Hot Reload is installed and enabled. Check that `npm run dev` is running
 **Calendar shows only daily briefs, no events**
 Run `cc-refresh-calendar.sh` manually and check for errors. Most common cause: the MCP config is pointing to the wrong connector.
 
----
-
-## Join the team
-
-If you've made it this far and you're enjoying building with Claude, we're always looking for people to join PRGRMMD.
-
-We're a growing AI agency installing AI operating systems into founder-led businesses. If you're comfortable with Claude Code, enjoy building automation systems, and want to apply that to real client work, we'd love to hear from you.
-
-**[Apply to work with us →](https://forms.clickup.com/90161350719/f/2kz0j21z-21756/2CDXO69PY3T19A3I85)**
-
-Or DM me directly on Instagram if you want to have a chat first.
 
 ---
 
